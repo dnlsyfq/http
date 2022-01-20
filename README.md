@@ -1,3 +1,16 @@
+### Protocols
+
+* POP
+* SMTP
+* IMAP
+* FTP // File Transfer
+
+### HTTP  & HTTPS
+* GET - ask to receive
+* POST - send some information
+* DELETE - ask to remove
+
+
 Two cycle
 1. Request
 2. Respond
